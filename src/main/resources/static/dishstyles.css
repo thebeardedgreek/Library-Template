@@ -1,0 +1,74 @@
+body{
+    background-image: url("/img/food-background-3.jpg");
+    background-size: 100%;
+}
+
+.navbar-styling{
+    background-color: lightgreen;
+    color: white;
+}
+
+.content-wrapper{
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 16px;
+    border: 2px solid darkgreen;
+}
+
+.app-section{
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    color: white;
+    font-size: 18px;
+}
+
+.formatter{
+    vertical-align: top;
+    align-items: stretch;
+    justify-content: space-evenly;
+}
+
+.nav-links{
+    text-decoration: none;
+    color: lightblue;
+}
+
+.search-align{
+    margin-right: 15px;
+}
+
+.dish-img{
+    padding: 0;
+    margin: 30px 30% 30px 30%;
+    width: 150px;
+    height: 150px;
+    border-radius: 30px;
+}
+
+.Aligner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+    border-radius: 30px;
+    width: 40px;
+    height: 40px;
+}
+
+.tasty{
+    background-color: #C0392B;
+    border-radius: 5px;
+}
+
+.nasty{
+    background-color: #58D68D;
+    border-radius: 5px;
+}
+
+.dish-img-2{
+    padding: 0;
+    margin: 30px 30% 30px 30%;
+    width: 250px;
+    height: 250px;
+    border-radius: 30px;
+}
